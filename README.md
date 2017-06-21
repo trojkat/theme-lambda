@@ -16,5 +16,5 @@
 ##### Oh-My-Fish
 
 ```fish
-omf install lambda
+omf install https://github.com/trojkat/theme-lambda
 ```
